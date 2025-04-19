@@ -1,0 +1,14 @@
+C:\Users\ensar_gokhan\Desktop\c# vs\deneme\bin\Debug\net8.0\deneme.exe
+C:\Users\ensar_gokhan\Desktop\c# vs\deneme\bin\Debug\net8.0\deneme.deps.json
+C:\Users\ensar_gokhan\Desktop\c# vs\deneme\bin\Debug\net8.0\deneme.runtimeconfig.json
+C:\Users\ensar_gokhan\Desktop\c# vs\deneme\bin\Debug\net8.0\deneme.dll
+C:\Users\ensar_gokhan\Desktop\c# vs\deneme\bin\Debug\net8.0\deneme.pdb
+C:\Users\ensar_gokhan\Desktop\c# vs\deneme\obj\Debug\net8.0\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar_gokhan\Desktop\c# vs\deneme\obj\Debug\net8.0\deneme.AssemblyInfoInputs.cache
+C:\Users\ensar_gokhan\Desktop\c# vs\deneme\obj\Debug\net8.0\deneme.AssemblyInfo.cs
+C:\Users\ensar_gokhan\Desktop\c# vs\deneme\obj\Debug\net8.0\deneme.csproj.CoreCompileInputs.cache
+C:\Users\ensar_gokhan\Desktop\c# vs\deneme\obj\Debug\net8.0\deneme.dll
+C:\Users\ensar_gokhan\Desktop\c# vs\deneme\obj\Debug\net8.0\refint\deneme.dll
+C:\Users\ensar_gokhan\Desktop\c# vs\deneme\obj\Debug\net8.0\deneme.pdb
+C:\Users\ensar_gokhan\Desktop\c# vs\deneme\obj\Debug\net8.0\deneme.genruntimeconfig.cache
+C:\Users\ensar_gokhan\Desktop\c# vs\deneme\obj\Debug\net8.0\ref\deneme.dll
