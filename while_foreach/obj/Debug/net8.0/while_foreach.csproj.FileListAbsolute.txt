@@ -1,0 +1,15 @@
+C:\Users\ensar_gokhan\Desktop\c#\while_foreach\bin\Debug\net8.0\while_foreach.exe
+C:\Users\ensar_gokhan\Desktop\c#\while_foreach\bin\Debug\net8.0\while_foreach.deps.json
+C:\Users\ensar_gokhan\Desktop\c#\while_foreach\bin\Debug\net8.0\while_foreach.runtimeconfig.json
+C:\Users\ensar_gokhan\Desktop\c#\while_foreach\bin\Debug\net8.0\while_foreach.dll
+C:\Users\ensar_gokhan\Desktop\c#\while_foreach\bin\Debug\net8.0\while_foreach.pdb
+C:\Users\ensar_gokhan\Desktop\c#\while_foreach\obj\Debug\net8.0\while_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar_gokhan\Desktop\c#\while_foreach\obj\Debug\net8.0\while_foreach.AssemblyInfoInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\while_foreach\obj\Debug\net8.0\while_foreach.AssemblyInfo.cs
+C:\Users\ensar_gokhan\Desktop\c#\while_foreach\obj\Debug\net8.0\while_foreach.csproj.CoreCompileInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\while_foreach\obj\Debug\net8.0\while_foreach.sourcelink.json
+C:\Users\ensar_gokhan\Desktop\c#\while_foreach\obj\Debug\net8.0\while_foreach.dll
+C:\Users\ensar_gokhan\Desktop\c#\while_foreach\obj\Debug\net8.0\refint\while_foreach.dll
+C:\Users\ensar_gokhan\Desktop\c#\while_foreach\obj\Debug\net8.0\while_foreach.pdb
+C:\Users\ensar_gokhan\Desktop\c#\while_foreach\obj\Debug\net8.0\while_foreach.genruntimeconfig.cache
+C:\Users\ensar_gokhan\Desktop\c#\while_foreach\obj\Debug\net8.0\ref\while_foreach.dll
