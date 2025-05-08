@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ensar_gokhan\\desktop\\c#\\metods\\metods.csproj": {}
+    "C:\\Users\\ensar_gokhan\\Desktop\\c#\\metods\\metods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ensar_gokhan\\desktop\\c#\\metods\\metods.csproj": {
+    "C:\\Users\\ensar_gokhan\\Desktop\\c#\\metods\\metods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ensar_gokhan\\desktop\\c#\\metods\\metods.csproj",
+        "projectUniqueName": "C:\\Users\\ensar_gokhan\\Desktop\\c#\\metods\\metods.csproj",
         "projectName": "metods",
-        "projectPath": "C:\\Users\\ensar_gokhan\\desktop\\c#\\metods\\metods.csproj",
+        "projectPath": "C:\\Users\\ensar_gokhan\\Desktop\\c#\\metods\\metods.csproj",
         "packagesPath": "C:\\Users\\ensar_gokhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ensar_gokhan\\desktop\\c#\\metods\\obj\\",
+        "outputPath": "C:\\Users\\ensar_gokhan\\Desktop\\c#\\metods\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
