@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ensar_gokhan\\desktop\\c#\\ödevler\\algoritma1\\algoritma1.csproj": {}
+    "C:\\Users\\ensar_gokhan\\Desktop\\c#\\ödevler\\algoritma1\\algoritma1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ensar_gokhan\\desktop\\c#\\ödevler\\algoritma1\\algoritma1.csproj": {
+    "C:\\Users\\ensar_gokhan\\Desktop\\c#\\ödevler\\algoritma1\\algoritma1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ensar_gokhan\\desktop\\c#\\ödevler\\algoritma1\\algoritma1.csproj",
+        "projectUniqueName": "C:\\Users\\ensar_gokhan\\Desktop\\c#\\ödevler\\algoritma1\\algoritma1.csproj",
         "projectName": "algoritma1",
-        "projectPath": "C:\\Users\\ensar_gokhan\\desktop\\c#\\ödevler\\algoritma1\\algoritma1.csproj",
+        "projectPath": "C:\\Users\\ensar_gokhan\\Desktop\\c#\\ödevler\\algoritma1\\algoritma1.csproj",
         "packagesPath": "C:\\Users\\ensar_gokhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ensar_gokhan\\desktop\\c#\\ödevler\\algoritma1\\obj\\",
+        "outputPath": "C:\\Users\\ensar_gokhan\\Desktop\\c#\\ödevler\\algoritma1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
