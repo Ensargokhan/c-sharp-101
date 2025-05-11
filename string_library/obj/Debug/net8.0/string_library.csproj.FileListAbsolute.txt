@@ -1,0 +1,15 @@
+C:\Users\ensar_gokhan\Desktop\c#\string_library\bin\Debug\net8.0\string_library.exe
+C:\Users\ensar_gokhan\Desktop\c#\string_library\bin\Debug\net8.0\string_library.deps.json
+C:\Users\ensar_gokhan\Desktop\c#\string_library\bin\Debug\net8.0\string_library.runtimeconfig.json
+C:\Users\ensar_gokhan\Desktop\c#\string_library\bin\Debug\net8.0\string_library.dll
+C:\Users\ensar_gokhan\Desktop\c#\string_library\bin\Debug\net8.0\string_library.pdb
+C:\Users\ensar_gokhan\Desktop\c#\string_library\obj\Debug\net8.0\string_library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar_gokhan\Desktop\c#\string_library\obj\Debug\net8.0\string_library.AssemblyInfoInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\string_library\obj\Debug\net8.0\string_library.AssemblyInfo.cs
+C:\Users\ensar_gokhan\Desktop\c#\string_library\obj\Debug\net8.0\string_library.csproj.CoreCompileInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\string_library\obj\Debug\net8.0\string_library.sourcelink.json
+C:\Users\ensar_gokhan\Desktop\c#\string_library\obj\Debug\net8.0\string_library.dll
+C:\Users\ensar_gokhan\Desktop\c#\string_library\obj\Debug\net8.0\refint\string_library.dll
+C:\Users\ensar_gokhan\Desktop\c#\string_library\obj\Debug\net8.0\string_library.pdb
+C:\Users\ensar_gokhan\Desktop\c#\string_library\obj\Debug\net8.0\string_library.genruntimeconfig.cache
+C:\Users\ensar_gokhan\Desktop\c#\string_library\obj\Debug\net8.0\ref\string_library.dll
