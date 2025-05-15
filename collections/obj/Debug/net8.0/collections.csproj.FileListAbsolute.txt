@@ -1,0 +1,15 @@
+C:\Users\ensar_gokhan\Desktop\c#\collections\bin\Debug\net8.0\collections.exe
+C:\Users\ensar_gokhan\Desktop\c#\collections\bin\Debug\net8.0\collections.deps.json
+C:\Users\ensar_gokhan\Desktop\c#\collections\bin\Debug\net8.0\collections.runtimeconfig.json
+C:\Users\ensar_gokhan\Desktop\c#\collections\bin\Debug\net8.0\collections.dll
+C:\Users\ensar_gokhan\Desktop\c#\collections\bin\Debug\net8.0\collections.pdb
+C:\Users\ensar_gokhan\Desktop\c#\collections\obj\Debug\net8.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar_gokhan\Desktop\c#\collections\obj\Debug\net8.0\collections.AssemblyInfoInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\collections\obj\Debug\net8.0\collections.AssemblyInfo.cs
+C:\Users\ensar_gokhan\Desktop\c#\collections\obj\Debug\net8.0\collections.csproj.CoreCompileInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\collections\obj\Debug\net8.0\collections.sourcelink.json
+C:\Users\ensar_gokhan\Desktop\c#\collections\obj\Debug\net8.0\collections.dll
+C:\Users\ensar_gokhan\Desktop\c#\collections\obj\Debug\net8.0\refint\collections.dll
+C:\Users\ensar_gokhan\Desktop\c#\collections\obj\Debug\net8.0\collections.pdb
+C:\Users\ensar_gokhan\Desktop\c#\collections\obj\Debug\net8.0\collections.genruntimeconfig.cache
+C:\Users\ensar_gokhan\Desktop\c#\collections\obj\Debug\net8.0\ref\collections.dll
