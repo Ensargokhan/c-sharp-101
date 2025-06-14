@@ -1,0 +1,15 @@
+C:\Users\ensar_gokhan\Desktop\c#\if_else\bin\Debug\net8.0\if_else.exe
+C:\Users\ensar_gokhan\Desktop\c#\if_else\bin\Debug\net8.0\if_else.deps.json
+C:\Users\ensar_gokhan\Desktop\c#\if_else\bin\Debug\net8.0\if_else.runtimeconfig.json
+C:\Users\ensar_gokhan\Desktop\c#\if_else\bin\Debug\net8.0\if_else.dll
+C:\Users\ensar_gokhan\Desktop\c#\if_else\bin\Debug\net8.0\if_else.pdb
+C:\Users\ensar_gokhan\Desktop\c#\if_else\obj\Debug\net8.0\if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar_gokhan\Desktop\c#\if_else\obj\Debug\net8.0\if_else.AssemblyInfoInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\if_else\obj\Debug\net8.0\if_else.AssemblyInfo.cs
+C:\Users\ensar_gokhan\Desktop\c#\if_else\obj\Debug\net8.0\if_else.csproj.CoreCompileInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\if_else\obj\Debug\net8.0\if_else.sourcelink.json
+C:\Users\ensar_gokhan\Desktop\c#\if_else\obj\Debug\net8.0\if_else.dll
+C:\Users\ensar_gokhan\Desktop\c#\if_else\obj\Debug\net8.0\refint\if_else.dll
+C:\Users\ensar_gokhan\Desktop\c#\if_else\obj\Debug\net8.0\if_else.pdb
+C:\Users\ensar_gokhan\Desktop\c#\if_else\obj\Debug\net8.0\if_else.genruntimeconfig.cache
+C:\Users\ensar_gokhan\Desktop\c#\if_else\obj\Debug\net8.0\ref\if_else.dll

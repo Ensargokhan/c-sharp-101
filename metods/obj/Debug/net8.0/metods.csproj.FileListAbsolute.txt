@@ -1,0 +1,15 @@
+C:\Users\ensar_gokhan\Desktop\c#\metods\bin\Debug\net8.0\metods.exe
+C:\Users\ensar_gokhan\Desktop\c#\metods\bin\Debug\net8.0\metods.deps.json
+C:\Users\ensar_gokhan\Desktop\c#\metods\bin\Debug\net8.0\metods.runtimeconfig.json
+C:\Users\ensar_gokhan\Desktop\c#\metods\bin\Debug\net8.0\metods.dll
+C:\Users\ensar_gokhan\Desktop\c#\metods\bin\Debug\net8.0\metods.pdb
+C:\Users\ensar_gokhan\Desktop\c#\metods\obj\Debug\net8.0\metods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar_gokhan\Desktop\c#\metods\obj\Debug\net8.0\metods.AssemblyInfoInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\metods\obj\Debug\net8.0\metods.AssemblyInfo.cs
+C:\Users\ensar_gokhan\Desktop\c#\metods\obj\Debug\net8.0\metods.csproj.CoreCompileInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\metods\obj\Debug\net8.0\metods.sourcelink.json
+C:\Users\ensar_gokhan\Desktop\c#\metods\obj\Debug\net8.0\metods.dll
+C:\Users\ensar_gokhan\Desktop\c#\metods\obj\Debug\net8.0\refint\metods.dll
+C:\Users\ensar_gokhan\Desktop\c#\metods\obj\Debug\net8.0\metods.pdb
+C:\Users\ensar_gokhan\Desktop\c#\metods\obj\Debug\net8.0\metods.genruntimeconfig.cache
+C:\Users\ensar_gokhan\Desktop\c#\metods\obj\Debug\net8.0\ref\metods.dll

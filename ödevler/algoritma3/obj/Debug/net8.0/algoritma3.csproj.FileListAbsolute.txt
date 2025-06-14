@@ -1,0 +1,15 @@
+C:\Users\ensar_gokhan\Desktop\c#\ödevler\algoritma3\bin\Debug\net8.0\algoritma3.exe
+C:\Users\ensar_gokhan\Desktop\c#\ödevler\algoritma3\bin\Debug\net8.0\algoritma3.deps.json
+C:\Users\ensar_gokhan\Desktop\c#\ödevler\algoritma3\bin\Debug\net8.0\algoritma3.runtimeconfig.json
+C:\Users\ensar_gokhan\Desktop\c#\ödevler\algoritma3\bin\Debug\net8.0\algoritma3.dll
+C:\Users\ensar_gokhan\Desktop\c#\ödevler\algoritma3\bin\Debug\net8.0\algoritma3.pdb
+C:\Users\ensar_gokhan\Desktop\c#\ödevler\algoritma3\obj\Debug\net8.0\algoritma3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar_gokhan\Desktop\c#\ödevler\algoritma3\obj\Debug\net8.0\algoritma3.AssemblyInfoInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\ödevler\algoritma3\obj\Debug\net8.0\algoritma3.AssemblyInfo.cs
+C:\Users\ensar_gokhan\Desktop\c#\ödevler\algoritma3\obj\Debug\net8.0\algoritma3.csproj.CoreCompileInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\ödevler\algoritma3\obj\Debug\net8.0\algoritma3.sourcelink.json
+C:\Users\ensar_gokhan\Desktop\c#\ödevler\algoritma3\obj\Debug\net8.0\algoritma3.dll
+C:\Users\ensar_gokhan\Desktop\c#\ödevler\algoritma3\obj\Debug\net8.0\refint\algoritma3.dll
+C:\Users\ensar_gokhan\Desktop\c#\ödevler\algoritma3\obj\Debug\net8.0\algoritma3.pdb
+C:\Users\ensar_gokhan\Desktop\c#\ödevler\algoritma3\obj\Debug\net8.0\algoritma3.genruntimeconfig.cache
+C:\Users\ensar_gokhan\Desktop\c#\ödevler\algoritma3\obj\Debug\net8.0\ref\algoritma3.dll
