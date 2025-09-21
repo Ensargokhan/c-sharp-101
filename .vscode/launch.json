@@ -9,7 +9,11 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
+<<<<<<< HEAD
             "program": "${workspaceFolder}/bin/Debug/net8.0/enum.dll",
+=======
+            "program": "${workspaceFolder}/bin/Debug/net8.0/encapsulation.dll",
+>>>>>>> c36f4a0b00d4e2b4111f45b8642cff77b5e6e5ed
             "args": [],
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
@@ -20,10 +24,17 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
+<<<<<<< HEAD
             "program": "${workspaceFolder}/bin/Debug/net8.0/enum.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "integratedTerminal",
+=======
+            "program": "${workspaceFolder}/bin/Debug/net8.0/encapsulation.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+>>>>>>> c36f4a0b00d4e2b4111f45b8642cff77b5e6e5ed
             "stopAtEntry": false
         },
         {

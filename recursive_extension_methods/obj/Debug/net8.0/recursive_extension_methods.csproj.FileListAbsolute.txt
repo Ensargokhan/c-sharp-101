@@ -1,0 +1,15 @@
+C:\Users\ensar_gokhan\Desktop\c#\recursive_extension_methods\bin\Debug\net8.0\recursive_extension_methods.exe
+C:\Users\ensar_gokhan\Desktop\c#\recursive_extension_methods\bin\Debug\net8.0\recursive_extension_methods.deps.json
+C:\Users\ensar_gokhan\Desktop\c#\recursive_extension_methods\bin\Debug\net8.0\recursive_extension_methods.runtimeconfig.json
+C:\Users\ensar_gokhan\Desktop\c#\recursive_extension_methods\bin\Debug\net8.0\recursive_extension_methods.dll
+C:\Users\ensar_gokhan\Desktop\c#\recursive_extension_methods\bin\Debug\net8.0\recursive_extension_methods.pdb
+C:\Users\ensar_gokhan\Desktop\c#\recursive_extension_methods\obj\Debug\net8.0\recursive_extension_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar_gokhan\Desktop\c#\recursive_extension_methods\obj\Debug\net8.0\recursive_extension_methods.AssemblyInfoInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\recursive_extension_methods\obj\Debug\net8.0\recursive_extension_methods.AssemblyInfo.cs
+C:\Users\ensar_gokhan\Desktop\c#\recursive_extension_methods\obj\Debug\net8.0\recursive_extension_methods.csproj.CoreCompileInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\recursive_extension_methods\obj\Debug\net8.0\recursive_extension_methods.sourcelink.json
+C:\Users\ensar_gokhan\Desktop\c#\recursive_extension_methods\obj\Debug\net8.0\recursive_extension_methods.dll
+C:\Users\ensar_gokhan\Desktop\c#\recursive_extension_methods\obj\Debug\net8.0\refint\recursive_extension_methods.dll
+C:\Users\ensar_gokhan\Desktop\c#\recursive_extension_methods\obj\Debug\net8.0\recursive_extension_methods.pdb
+C:\Users\ensar_gokhan\Desktop\c#\recursive_extension_methods\obj\Debug\net8.0\recursive_extension_methods.genruntimeconfig.cache
+C:\Users\ensar_gokhan\Desktop\c#\recursive_extension_methods\obj\Debug\net8.0\ref\recursive_extension_methods.dll

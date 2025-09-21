@@ -7,7 +7,11 @@
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/enum.csproj",
+=======
+                "${workspaceFolder}/encapsulation.csproj",
+>>>>>>> c36f4a0b00d4e2b4111f45b8642cff77b5e6e5ed
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -19,7 +23,11 @@
             "type": "process",
             "args": [
                 "publish",
+<<<<<<< HEAD
                 "${workspaceFolder}/enum.csproj",
+=======
+                "${workspaceFolder}/encapsulation.csproj",
+>>>>>>> c36f4a0b00d4e2b4111f45b8642cff77b5e6e5ed
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -33,7 +41,11 @@
                 "watch",
                 "run",
                 "--project",
+<<<<<<< HEAD
                 "${workspaceFolder}/enum.csproj"
+=======
+                "${workspaceFolder}/encapsulation.csproj"
+>>>>>>> c36f4a0b00d4e2b4111f45b8642cff77b5e6e5ed
             ],
             "problemMatcher": "$msCompile"
         }

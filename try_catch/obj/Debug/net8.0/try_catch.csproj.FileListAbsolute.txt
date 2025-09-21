@@ -1,0 +1,15 @@
+C:\Users\ensar_gokhan\Desktop\c#\try_catch\bin\Debug\net8.0\try_catch.exe
+C:\Users\ensar_gokhan\Desktop\c#\try_catch\bin\Debug\net8.0\try_catch.deps.json
+C:\Users\ensar_gokhan\Desktop\c#\try_catch\bin\Debug\net8.0\try_catch.runtimeconfig.json
+C:\Users\ensar_gokhan\Desktop\c#\try_catch\bin\Debug\net8.0\try_catch.dll
+C:\Users\ensar_gokhan\Desktop\c#\try_catch\bin\Debug\net8.0\try_catch.pdb
+C:\Users\ensar_gokhan\Desktop\c#\try_catch\obj\Debug\net8.0\try_catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar_gokhan\Desktop\c#\try_catch\obj\Debug\net8.0\try_catch.AssemblyInfoInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\try_catch\obj\Debug\net8.0\try_catch.AssemblyInfo.cs
+C:\Users\ensar_gokhan\Desktop\c#\try_catch\obj\Debug\net8.0\try_catch.csproj.CoreCompileInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\try_catch\obj\Debug\net8.0\try_catch.sourcelink.json
+C:\Users\ensar_gokhan\Desktop\c#\try_catch\obj\Debug\net8.0\try_catch.dll
+C:\Users\ensar_gokhan\Desktop\c#\try_catch\obj\Debug\net8.0\refint\try_catch.dll
+C:\Users\ensar_gokhan\Desktop\c#\try_catch\obj\Debug\net8.0\try_catch.pdb
+C:\Users\ensar_gokhan\Desktop\c#\try_catch\obj\Debug\net8.0\try_catch.genruntimeconfig.cache
+C:\Users\ensar_gokhan\Desktop\c#\try_catch\obj\Debug\net8.0\ref\try_catch.dll

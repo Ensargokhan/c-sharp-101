@@ -1,0 +1,15 @@
+C:\Users\ensar_gokhan\Desktop\c#\array_sinifi_metodlari\bin\Debug\net8.0\array_sinifi_metodlari.exe
+C:\Users\ensar_gokhan\Desktop\c#\array_sinifi_metodlari\bin\Debug\net8.0\array_sinifi_metodlari.deps.json
+C:\Users\ensar_gokhan\Desktop\c#\array_sinifi_metodlari\bin\Debug\net8.0\array_sinifi_metodlari.runtimeconfig.json
+C:\Users\ensar_gokhan\Desktop\c#\array_sinifi_metodlari\bin\Debug\net8.0\array_sinifi_metodlari.dll
+C:\Users\ensar_gokhan\Desktop\c#\array_sinifi_metodlari\bin\Debug\net8.0\array_sinifi_metodlari.pdb
+C:\Users\ensar_gokhan\Desktop\c#\array_sinifi_metodlari\obj\Debug\net8.0\array_sinifi_metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar_gokhan\Desktop\c#\array_sinifi_metodlari\obj\Debug\net8.0\array_sinifi_metodlari.AssemblyInfoInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\array_sinifi_metodlari\obj\Debug\net8.0\array_sinifi_metodlari.AssemblyInfo.cs
+C:\Users\ensar_gokhan\Desktop\c#\array_sinifi_metodlari\obj\Debug\net8.0\array_sinifi_metodlari.csproj.CoreCompileInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\array_sinifi_metodlari\obj\Debug\net8.0\array_sinifi_metodlari.sourcelink.json
+C:\Users\ensar_gokhan\Desktop\c#\array_sinifi_metodlari\obj\Debug\net8.0\array_sinifi_metodlari.dll
+C:\Users\ensar_gokhan\Desktop\c#\array_sinifi_metodlari\obj\Debug\net8.0\refint\array_sinifi_metodlari.dll
+C:\Users\ensar_gokhan\Desktop\c#\array_sinifi_metodlari\obj\Debug\net8.0\array_sinifi_metodlari.pdb
+C:\Users\ensar_gokhan\Desktop\c#\array_sinifi_metodlari\obj\Debug\net8.0\array_sinifi_metodlari.genruntimeconfig.cache
+C:\Users\ensar_gokhan\Desktop\c#\array_sinifi_metodlari\obj\Debug\net8.0\ref\array_sinifi_metodlari.dll

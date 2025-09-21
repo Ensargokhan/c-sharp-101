@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "H1PAX2u5/70=",
   "success": true,
   "projectFilePath": "C:\\Users\\ensar_gokhan\\Desktop\\c#\\enum\\enum.csproj",
+=======
+  "dgSpecHash": "uSC8I5id+EA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ensar_gokhan\\Desktop\\c#\\encapsulation\\encapsulation.csproj",
+>>>>>>> c36f4a0b00d4e2b4111f45b8642cff77b5e6e5ed
   "expectedPackageFiles": [],
   "logs": []
 }

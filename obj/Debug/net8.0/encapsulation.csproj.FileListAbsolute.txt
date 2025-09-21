@@ -1,0 +1,15 @@
+C:\Users\ensar_gokhan\Desktop\c#\encapsulation\bin\Debug\net8.0\encapsulation.exe
+C:\Users\ensar_gokhan\Desktop\c#\encapsulation\bin\Debug\net8.0\encapsulation.deps.json
+C:\Users\ensar_gokhan\Desktop\c#\encapsulation\bin\Debug\net8.0\encapsulation.runtimeconfig.json
+C:\Users\ensar_gokhan\Desktop\c#\encapsulation\bin\Debug\net8.0\encapsulation.dll
+C:\Users\ensar_gokhan\Desktop\c#\encapsulation\bin\Debug\net8.0\encapsulation.pdb
+C:\Users\ensar_gokhan\Desktop\c#\encapsulation\obj\Debug\net8.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar_gokhan\Desktop\c#\encapsulation\obj\Debug\net8.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\encapsulation\obj\Debug\net8.0\encapsulation.AssemblyInfo.cs
+C:\Users\ensar_gokhan\Desktop\c#\encapsulation\obj\Debug\net8.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\encapsulation\obj\Debug\net8.0\encapsulation.sourcelink.json
+C:\Users\ensar_gokhan\Desktop\c#\encapsulation\obj\Debug\net8.0\encapsulation.dll
+C:\Users\ensar_gokhan\Desktop\c#\encapsulation\obj\Debug\net8.0\refint\encapsulation.dll
+C:\Users\ensar_gokhan\Desktop\c#\encapsulation\obj\Debug\net8.0\encapsulation.pdb
+C:\Users\ensar_gokhan\Desktop\c#\encapsulation\obj\Debug\net8.0\encapsulation.genruntimeconfig.cache
+C:\Users\ensar_gokhan\Desktop\c#\encapsulation\obj\Debug\net8.0\ref\encapsulation.dll

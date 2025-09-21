@@ -1,0 +1,15 @@
+C:\Users\ensar_gokhan\Desktop\c#\math_datetime\bin\Debug\net8.0\math_datetime.exe
+C:\Users\ensar_gokhan\Desktop\c#\math_datetime\bin\Debug\net8.0\math_datetime.deps.json
+C:\Users\ensar_gokhan\Desktop\c#\math_datetime\bin\Debug\net8.0\math_datetime.runtimeconfig.json
+C:\Users\ensar_gokhan\Desktop\c#\math_datetime\bin\Debug\net8.0\math_datetime.dll
+C:\Users\ensar_gokhan\Desktop\c#\math_datetime\bin\Debug\net8.0\math_datetime.pdb
+C:\Users\ensar_gokhan\Desktop\c#\math_datetime\obj\Debug\net8.0\math_datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar_gokhan\Desktop\c#\math_datetime\obj\Debug\net8.0\math_datetime.AssemblyInfoInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\math_datetime\obj\Debug\net8.0\math_datetime.AssemblyInfo.cs
+C:\Users\ensar_gokhan\Desktop\c#\math_datetime\obj\Debug\net8.0\math_datetime.csproj.CoreCompileInputs.cache
+C:\Users\ensar_gokhan\Desktop\c#\math_datetime\obj\Debug\net8.0\math_datetime.sourcelink.json
+C:\Users\ensar_gokhan\Desktop\c#\math_datetime\obj\Debug\net8.0\math_datetime.dll
+C:\Users\ensar_gokhan\Desktop\c#\math_datetime\obj\Debug\net8.0\refint\math_datetime.dll
+C:\Users\ensar_gokhan\Desktop\c#\math_datetime\obj\Debug\net8.0\math_datetime.pdb
+C:\Users\ensar_gokhan\Desktop\c#\math_datetime\obj\Debug\net8.0\math_datetime.genruntimeconfig.cache
+C:\Users\ensar_gokhan\Desktop\c#\math_datetime\obj\Debug\net8.0\ref\math_datetime.dll
